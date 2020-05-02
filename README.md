@@ -1,2 +1,2 @@
-# background1
-background color changes through ecllipse
+# p5.play-boilerplate
+CLASS 20 PROJECT BOILERPLATE
